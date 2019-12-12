@@ -16,16 +16,17 @@ Restart LibreOffice Calc, and now you can use all of Excel's Shortcuts. To test 
 
 # How it Works
 While using linux, you may have seen this textbox popup when clicking ALT
-[hud.png](/images/hud.png)
+
+![hud.png](/images/hud.png)
 
 Pretty nifty feature, what it does it search through the menu options for what you typed in.
 So if you hit ALT and type in "Hide Column" LibreOffice Calc will take you to menu option Format > Column > Hide.
 
-[hide_column_calc.png](/images/hide_column_calc.png)
+![hide_column_calc.png](/images/hide_column_calc.png)
 
 Knowing this, the simplest solution to using Excel's shortcuts is to change the menu options labels. For example, to use Excel's shortcut for hiding a column, change "Hide Column" to "Hide Column - houc". The only difference in LibreOffice is you need to hit "Enter" before running the action.
 
-[houc_calc.png](/images/houc_calc.png)
+![houc_calc.png](/images/houc_calc.png)
 
 # Further Customization
 
